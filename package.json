@@ -1,0 +1,20 @@
+{
+  "name": "checkpalindrome",
+  "version": "1.0.0",
+  "description": "Given the string, check if it is a palindrome.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/checkPalindrome.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/checkPalindrome/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/checkPalindrome#readme"
+}
