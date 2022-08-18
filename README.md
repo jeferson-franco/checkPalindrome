@@ -35,13 +35,3 @@ Guaranteed constraints:
 - [output] boolean
 
 `true` if `inputString` is a palindrome, `false` otherwise.
-
-[JavaScript] Syntax Tips
-```js
-// Prints help message to the console
-// Returns a string
-function helloWorld(name) {
-    console.log("This prints to the console when you Run Tests");
-    return "Hello, " + name;
-}
-```
