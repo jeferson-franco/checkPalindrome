@@ -37,5 +37,5 @@ test('test 9', () => {
 });
 
 test('test 10', () => {
-    expect(solution("hlbeeykoqqqokyeeblh")).toBe(true);
+    expect(solution('hlbeeykoqqqokyeeblh')).toBe(true);
 });
